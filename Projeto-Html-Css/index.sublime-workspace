@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"boo",
+				"border-color\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"line",
+				"line-height\tproperty"
+			],
+			[
+				"la",
+				"letter-spacing\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-attachment\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"text-id",
+				"text-indent\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/george/Área de Trabalho/Atividades/Fatorial.c",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-4-3-otimizacao_arquivos/web/portfolio.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-4-3-otimizacao_arquivos/web/produtos.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-4-3-otimizacao_arquivos/web/sobre.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-4-3-otimizacao_arquivos/web/contato.html",
+		"/home/george/Música/program.c",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/contato.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-3-3-animacoes_arquivos/web/js/script.js",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-3-3-animacoes_arquivos/web/css/style.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/portfolio.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/style.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/normalize.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/portfolio.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/produtos.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/reset.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/responsivo.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/css/sobre.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/index.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/produtos.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-2-7-portfolio-contato_arquivos/web/sobre.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/css/sobre.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/sobre.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/css/style.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-10-produtos_arquivos/5-1-10-web/produtos.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-10-produtos_arquivos/5-1-10-web/sobre.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/css/grid.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-9-sobre_arquivos/web/sobre.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-9-sobre_arquivos/web/sobre.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-7-qualidade-home_arquivos/web/css/style.css",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/img/bikcraft-qualidade.svg",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-6-portfolio-home_arquivos/web/index.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-1-preparando-o-terreno_arquivos/web/index.html",
+		"/home/george/Área de Trabalho/bikcraft/5-codigo-do-projeto/5-1-3-header_arquivos/web/css/style.css",
+		"/home/george/Área de Trabalho/Css-basico/4-basico-de-codificacao/4-3-6-outras-propriedades_arquivos/outras-propriedades/index.html",
+		"/home/george/Área de Trabalho/Css-basico/4-basico-de-codificacao/4-3-6-outras-propriedades_arquivos/outras-propriedades/style.css",
+		"/home/george/Área de Trabalho/Css-basico/4-basico-de-codificacao/box-model-01/index.html",
+		"/home/george/Área de Trabalho/Css-basico/4-basico-de-codificacao/box-model-01/style.css",
+		"/home/george/Área de Trabalho/parallax/index.html",
+		"/home/george/Área de Trabalho/Chale-Hotel/index.html",
+		"/home/george/Área de Trabalho/Chale-Hotel/css/estilo.css",
+		"/home/george/Área de Trabalho/noticias-cidade/brasil.html",
+		"/home/george/Área de Trabalho/noticias-cidade/imagens/nova-legislacao.html",
+		"/home/george/Área de Trabalho/noticias-cidade/index.html",
+		"/home/george/Área de Trabalho/noticias-cidade/css/estilo.css",
+		"/home/george/Área de Trabalho/Projeto-Dino/style.css",
+		"/home/george/Área de Trabalho/Projeto-Dino/dino.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/estilo.css",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/formulario2.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/formularios.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/tabelas.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/layout.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/seletores.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/sobre.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/servicos.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/index.html",
+		"/home/george/Área de Trabalho/navegacao-vertical.html",
+		"/home/george/Área de Trabalho/CSS3 intermediario e avancado/seletores.html",
+		"/home/george/Área de Trabalho/CSS3 intermediario e avancado/CSS/heranca.html",
+		"/home/george/Área de Trabalho/CSS3 intermediario e avancado/css/estilo.css",
+		"/home/george/Área de Trabalho/CSS3 intermediario e avancado/CSS/estilo.css",
+		"/home/george/Área de Trabalho/CSS3 intermediario e avancado/css/heranca.html",
+		"/home/george/Área de Trabalho/Mesa/Tecblog/css/estilo.css",
+		"/home/george/Área de Trabalho/Mesa/Tecblog/index.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/formatando-links.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/sobrendo-elementos.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/posicionamento.html",
+		"/home/george/Área de Trabalho/Projeto AnaBela/estilo.css",
+		"/home/george/Área de Trabalho/ProjetoCSS/cor-imagem-fundo.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/fontes-cores.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/Estilos_fontes.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/imagens/elementos-inline-block.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/elementos-flutuantes-na-pratica.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/modelo-caixa.html",
+		"/home/george/Área de Trabalho/ProjetoCSS3-Intermediaro/elementos-flutuantes.html",
+		"/home/george/Área de Trabalho/Projeto AnaBela/campanhas-publicitarias.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/seletores.html",
+		"/home/george/Área de Trabalho/Projeto AnaBela/Imagens/index.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/bordas.html",
+		"/home/george/Área de Trabalho/Css-basico/introducao/div.span.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/pagina1.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/pagina2.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/tamanhos_textos.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/div_span.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/style.css",
+		"/home/george/Área de Trabalho/ProjetoCSS/div.span.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/imagens/div.span.html",
+		"/home/george/Área de Trabalho/Css-basico/introducao/inline_style.html",
+		"/home/george/Área de Trabalho/Css-basico/introducao/classes-ids.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/classes_ids.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/prpriedad-texto.css",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/index.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/formulario.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/contato.html",
+		"/home/george/Área de Trabalho/ProjetoFinalHTML/quem-somos.html",
+		"/home/george/Área de Trabalho/ProjetoCSS/classes-ids.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/formularios.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/index.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/projeto.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/contato.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/Listas.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/Desafio.html",
+		"/home/george/Área de Trabalho/Primeiro Projeto/Listas.sublime-workspace",
+		"/home/george/Área de Trabalho/Primeiro Projeto/Listas",
+		"/home/george/Área de Trabalho/Project Aula]/index.html",
+		"/home/george/Área de Trabalho/Project Aula]/CSS/estilo.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
