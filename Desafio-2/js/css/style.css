@@ -1,0 +1,91 @@
+
+* {
+    margin:0;
+}
+
+body {
+    font-family:'Nunito-Sans',sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+    padding: 10px;
+    color:#fff;
+    text-align:center;
+
+}
+
+main {
+     padding:30px 50px;
+}
+
+ /* Classe dos butoes */
+ .card {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding:20px;
+     margin-top: 15px;
+     border-radius: 5px;
+
+  }
+
+   .lineInput {
+       display:grid;
+       margin-bottom:10px;
+   }
+
+   input {
+       padding:10px;
+   }
+
+   .lineInput {
+    display:grid;
+    margin-bottom:10px;
+}
+ /* Configurando botoes */
+ input {
+    padding: 10px;
+    border:1px solid #ccc;
+    border-radius: 3px;
+    outline: 0;
+ }
+
+ button {
+     border: 0px;
+     padding: 10px;
+     outline: 0;
+     background-color: blueviolet;
+     color: #fff;
+     border-radius:  3px;
+    transition:all ease 0.3s; /* Efeito lento */
+ }
+
+ button:hover {
+     background-color: rgb(102, 31, 168);
+ }
+
+ .content {
+     margin-top:15px;
+ }
+
+ table {
+     border-collapse: collapse;
+     border:1px solid #ccc;
+ }
+
+ table th {
+     background-color:rgb(214, 214, 214);
+ }
+
+ table th, td {
+     padding: 1px 5px;
+     text-align:left;
+ }
+  
+ table td img  {
+    width: 22px;
+}
+
+ .center {
+     text-align: center;
+ }
