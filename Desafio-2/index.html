@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE-edge">
+     <meta name="viewport" content="width-device-width, inital-scale=1.0">
+     
+      <title>Projeto JavaScript</title>
+
+      <link rel="stylesheet" href="css/style.css" >
+
+      <link rel = "preconnect" href = "https://fonts.googleapis.com">
+<link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
+<link href = "https: //fonts.googleapis.com/css2? family = Nunito + Sans: ital @ 1 & display = swap "rel =" stylesheet ">
+
+    <script src="js/script.sj"></script>
+</head>
+
+ <body>
+       
+       <header>
+          <h1>Gestão de Cadastros</h1>
+       </header>
+      <!--Menu-->
+      <main>
+
+    <div class="title">
+      <h2>Produtos</h2>
+      <span>Lista de Produtos da minha loja </span>
+     </div>
+
+     <div class="card">
+        <div class="lineInput">
+            <label>Produto</label>
+            <input type="text" id="produto" placeholder="Nome do produto">
+
+        </div>
+    
+     
+          <div class="lineInput">
+              <label>Preço</label>
+              <input type="text" id="preço" placeholder="Valor do produto">
+          </div>
+
+          <div class="lineInput">
+            <label>Endereco</label>
+            <input type="text" id="endereco" placeholder="Endereco">
+        </div>
+
+
+          <button onclick="produto.salvar()">Salvar </button>
+          <button onclick="produto.cancelar()">Cancelar</button>
+     </div>
+     
+     <!--Criação das Tabelas-->
+
+     <div class="content">
+
+         <table border="1">
+            <thead>
+               <th class="center">ID do Cliente</th>
+               <th>Produto</th>
+               <th>Valor</th>
+               <th>Endereco</th>
+               <th class="center">Ações</th>
+            </thead>
+              <tbody>
+             
+              </tbody>
+         </table>
+     </div>
+      </main>
+    
+ </body>
+</html>
